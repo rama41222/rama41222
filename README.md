@@ -5,8 +5,6 @@
 - 🏠 &nbsp; From 🇱🇰
 - 📙 &nbsp; Interested in Systems Design, how things work and Open Source
 - 📌 &nbsp; Open to work in any Technology.
-- ⛰️ &nbsp; Mountain person
-- 🚀 &nbsp; FTL
 - 🤝 &nbsp; Let's [connect](https://www.linkedin.com/in/thecompiler/)
 - 🌏 &nbsp; [Portfolio](https://www.dinushanka.me)
 - 📕 &nbsp; [Medium](https://medium.com/@rama41222)
