@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 &nbsp; I'm a Software Engineer who likes to take up new challenges. I've worked as a `backend`, `frontend` and `mobile` dev for startups, service based and product based companies in 🇱🇰&nbsp;Sri Lanka, 🇮🇳 &nbsp;India and 🇩🇪&nbsp;Germany since 2014.
-- 🚙 &nbsp; Software Engineer @ [Caroobi](http://caroobi.com/)
+🔭 &nbsp; I'm a Software Engineer with 6+ years of experience in working for Tech Companies globally (🇱🇰&nbsp;Sri Lanka, 🇮🇳 &nbsp;India, 🇩🇪&nbsp;Germany, 🇵🇹&nbsp;Portugal and 🇸🇬&nbsp;Singapore) since 2014.
+- 🚙 &nbsp; Software Engineer @ [Hope Technik](https://www.hopetechnik.com/)
 - 🏠 &nbsp; From 🇱🇰
 - 📙 &nbsp; Interested in Systems Design, how things work and Open Source
 - 📌 &nbsp; Open to work in any Technology.
